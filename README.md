@@ -15,7 +15,7 @@ In Anlehnung an den [Modulkatalogeintrag T3INF3001](https://github.com/michael-s
 8. Smart Contracts Entwicklung für die Ethereum Blockchain in Solidity  
 
 ## Prüfungsleistung
-Sofern eine Portfolioarbeit als Prüfungsleistung möglich ist, entwickeln wir eine Web Anwendung unter Nutzung von [svelte](https://svelte.dev/) für die Frontendentwicklung und [Deno](https://deno.land) für die Backendentwicklung. Die konkreten Projektvorschläge werden zu Beginn der Vorlesungsreihe als Issues auf diesem Repository gesammelt. Bei passenden Anwendungsfällen kann die Backendentwicklung zusätzlich die Entwicklung von Smart Contracts für die Ethereum Blockchain als Plattform / Server umfassen.   
+Sofern eine Portfolioarbeit als Prüfungsleistung möglich ist, entwickeln wir eine Web Anwendung unter Nutzung von [svelte](https://svelte.dev/) für die Frontendentwicklung und [Deno](https://deno.land) (als RTE...) für die Backendentwicklung. Die konkreten Projektvorschläge werden zu Beginn der Vorlesungsreihe als Issues auf diesem Repository gesammelt. Bei passenden Anwendungsfällen kann die Backendentwicklung zusätzlich die Entwicklung von Smart Contracts für die Ethereum Blockchain als Plattform / Server umfassen.   
 
 Maximale Punktzahl bei 5 ECTS Leistungspunkten = ?   
 zu nutzender Notenschlüssel = ?
