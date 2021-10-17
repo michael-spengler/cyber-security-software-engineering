@@ -10,7 +10,7 @@ In Anlehnung an den [Modulkatalogeintrag T3INF3001](https://github.com/michael-s
 3. Definition von Acceptance Tests (Executable Specifications) zur Konkretisierung der Requirements im Test First Stil  
 4. Software Architektur Design mit der [UML](https://staruml.io/)  
 5. Grobdesign Entscheidungen - e.g. Microservices Architektur vs. Monolithische Architektur     
-6. "Design for Flexibility" & Emergente Architekuren durch Test Driven Development) - High Cohesion / [Loose Coupling](http://xunitpatterns.com/Test%20Double.html) ...   
+6. "Design for Flexibility" & Emergente Architekuren durch Test Driven Development (High Cohesion / [Loose Coupling](http://xunitpatterns.com/Test%20Double.html) ...)   
 7. Frontend- (angular, vue, [svelte](https://svelte.dev/)) und Backend- [Deno](https://deno.land) Entwicklung in [TypeScript](https://www.typescriptlang.org/)  
 8. Smart Contracts Entwicklung für die Ethereum Blockchain in Solidity  
 
