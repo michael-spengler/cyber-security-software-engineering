@@ -16,7 +16,10 @@ Die Inhalte werden im Laufe der Vorlesungsreihe in Anlehnung an den [Modulkatalo
 7. Smart Contracts Entwicklung für die Ethereum Blockchain in Solidity  
 
 ## Prüfungsleistung
-tbd (Portfolioprüfung möglich?)
+Sofern eine Portfolioarbeit als Prüfungsleistung möglich ist, entwickeln wir eine Web Anwendung unter Nutzung von [svelte](https://svelte.dev/) für die Frontendentwicklung und [Deno](https://deno.land) für die Backendentwicklung. Die konkreten Projektvorschläge werden zu Beginn der Vorlesungsreihe als Issues auf diesem Repository gesammelt. Bei passenden Anwendungsfällen kann die Backendentwicklung zusätzlich die Entwicklung von Smart Contracts für die Ethereum Blockchain als Plattform / Server umfassen.   
+
+Maximale Punktzahl bei 5 ECTS Leistungspunkten = ?   
+zu nutzender Notenschlüssel = ?
 
 ## Bewertungskriterien 
 Falls Portfolioprüfung möglich:  
