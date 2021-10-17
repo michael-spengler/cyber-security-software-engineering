@@ -10,10 +10,11 @@ Die Inhalte werden im Laufe der Vorlesungsreihe in Anlehnung an den [Modulkatalo
 1. [Value Proposition Exploration & Definition](https://www.youtube.com/watch?v=ReM1uqmVfP0)    
 2. Personas & User Story Mapping    
 3. Definition von Acceptance Tests (Executable Specifications) zur Konkretisierung des Requirement Engineerings im Test First Stil  
-4. Software Architektur Design mit der UML - e.g. mit [StarUML](https://staruml.io/)   
-5. "Design for Flexibility" (Emerging Architectures by applying Test Driven Development) - High Cohesion / [Loose Coupling](http://xunitpatterns.com/Test%20Double.html) ...   
-6. Frontend- (angular, vue, [svelte](https://svelte.dev/)) und Backend- [Deno](https://deno.land) Entwicklung in [TypeScript](https://www.typescriptlang.org/)  
-7. Smart Contracts Entwicklung für die Ethereum Blockchain in Solidity  
+4. Software Architektur Design mit der [UML](https://staruml.io/)  
+5. Grobdesign Entscheidungen - e.g. Microservices Architektur vs. Monolithische Architektur     
+6. "Design for Flexibility" (Emerging Architectures by applying Test Driven Development) - High Cohesion / [Loose Coupling](http://xunitpatterns.com/Test%20Double.html) ...   
+7. Frontend- (angular, vue, [svelte](https://svelte.dev/)) und Backend- [Deno](https://deno.land) Entwicklung in [TypeScript](https://www.typescriptlang.org/)  
+8. Smart Contracts Entwicklung für die Ethereum Blockchain in Solidity  
 
 ## Prüfungsleistung
 Sofern eine Portfolioarbeit als Prüfungsleistung möglich ist, entwickeln wir eine Web Anwendung unter Nutzung von [svelte](https://svelte.dev/) für die Frontendentwicklung und [Deno](https://deno.land) für die Backendentwicklung. Die konkreten Projektvorschläge werden zu Beginn der Vorlesungsreihe als Issues auf diesem Repository gesammelt. Bei passenden Anwendungsfällen kann die Backendentwicklung zusätzlich die Entwicklung von Smart Contracts für die Ethereum Blockchain als Plattform / Server umfassen.   
