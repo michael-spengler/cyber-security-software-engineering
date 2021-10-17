@@ -12,5 +12,22 @@ Die Inhalte werden im Laufe der Vorlesungsreihe in Anlehnung an den [Modulkatalo
 3. Definition von Acceptance Tests (Executable Specifications) zur Konkretisierung des Requirement Engineerings im Test First Stil  
 4. Software Architektur Design mit der UML - e.g. mit [StarUML](https://staruml.io/)   
 5. "Design for Flexibility" (Emerging Architectures by applying Test Driven Development) - High Cohesion / [Loose Coupling](http://xunitpatterns.com/Test%20Double.html) ...   
-6. Frontend- (angular, vue, svelte) und Backend- (https://deno.land) Entwicklung in TypeScript  
-7. Smart Contracts Entwicklung für die Ethereum Blockchain in Solidity via 
+6. Frontend- (angular, vue, [svelte](https://svelte.dev/)) und Backend- [Deno](https://deno.land) Entwicklung in [TypeScript](https://www.typescriptlang.org/)  
+7. Smart Contracts Entwicklung für die Ethereum Blockchain in Solidity  
+
+## Prüfungsleistung
+tbd (Portfolioprüfung möglich?)
+
+## Bewertungskriterien 
+Falls Portfolioprüfung möglich:  
+1. Web app funktioniert fehlerfrei  
+2. Web app ist responsive  
+3. Es wurden nachvollziehbare Requirements- / Scope- Plattform- & Frameworkentscheidungen gefällt und dokumentiert  
+4. Die Implementierung nutzt die Plattform, Frameworks, Libraries und Module auf effiziente Art und Weise   
+5. High Code Quality / Good Maintainability reached by ...    
+5.1 clear separation of concerns (no spaghetti code)   
+5.2 high cohesion   
+5.3 loose coupling   
+5.4 automated static checks available (linting)   
+5.5 automated dynamic tests available (unit tests and integration tests)     
+6. Die Web app wurde weitgehend [testgetrieben]() entwickelt 
