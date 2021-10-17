@@ -32,4 +32,4 @@ Falls Portfolioprüfung möglich:
 5.3 loose coupling   
 5.4 automated static checks available (linting)   
 5.5 automated dynamic tests available (unit tests and integration tests)     
-6. Die Web app wurde weitgehend [testgetrieben]() entwickelt 
+6. Die Web app wurde weitgehend testgetrieben entwickelt 
