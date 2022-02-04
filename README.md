@@ -4,7 +4,9 @@
 ## Inhalte Überblick vom 4.2.22
 In Anlehnung an den [Modulkatalogeintrag T3INF3001](https://github.com/michael-spengler/cyber-security-software-engineering/blob/main/Screenshot%202021-10-17%20at%2016.06.50.png) wird die Aneignung von Methodenkompetenz in den folgenden Bereichen angeboten:    
 
-+ wie UML Diagramme [z.B. via staruml.io](https://staruml.io/) - die Entstehung von High Cohesion & [Loose Coupling](http://xunitpatterns.com/Test%20Double.html) unterstützen können.  
+<img width="1546" alt="Screenshot 2022-02-04 at 12 34 34" src="https://user-images.githubusercontent.com/43786652/152525474-3fd6a872-6447-4ebb-8bdf-c64dc21b0ca2.png">
+
+wie UML Diagramme [z.B. via staruml.io](https://staruml.io/) - die Entstehung von High Cohesion & [Loose Coupling](http://xunitpatterns.com/Test%20Double.html) unterstützen können.  
 
 
 ## Prüfungsleistung
