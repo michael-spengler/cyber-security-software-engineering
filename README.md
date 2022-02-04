@@ -4,7 +4,7 @@
 ## Inhalte Überblick vom 4.2.22
 In Anlehnung an den [Modulkatalogeintrag T3INF3001](https://github.com/michael-spengler/cyber-security-software-engineering/blob/main/Screenshot%202021-10-17%20at%2016.06.50.png) wird die Aneignung von Methodenkompetenz in den folgenden Bereichen angeboten:    
 
-<img width="1700" alt="Screenshot 2022-02-04 at 13 08 31" src="https://user-images.githubusercontent.com/43786652/152526800-279b733b-17ee-4d34-9f77-a7e21d864832.png">
+<img width="1682" alt="Screenshot 2022-02-04 at 13 51 50" src="https://user-images.githubusercontent.com/43786652/152532240-527da5c2-eabf-4c36-9a7a-097f5d537a63.png">
 
 
 ## Prüfungsleistung
@@ -16,6 +16,10 @@ Siehe Mindmap oben.
 
 
 ## Exkurse 
+### Deno 
+https://deno.land/ ... sollte als sehr empfehlenswert rübergekommen sein :)   
+
+
 ### Severe Vulnerability in the NodeJS Context
 <img width="883" alt="Screenshot 2022-02-04 at 10 36 58" src="https://user-images.githubusercontent.com/43786652/152506245-6e341ada-54ff-47f3-b15a-6802628885d0.png">
 
