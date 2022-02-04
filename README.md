@@ -33,3 +33,22 @@ Falls Portfolioprüfung möglich:
 5.4 automated static checks available (linting)   
 5.5 automated dynamic tests available (unit tests and integration tests)     
 6. Die Web app wurde weitgehend testgetrieben entwickelt 
+
+
+## Diagrams
+### Severe Vulnerability in the NodeJS Context
+<img width="883" alt="Screenshot 2022-02-04 at 10 36 58" src="https://user-images.githubusercontent.com/43786652/152506245-6e341ada-54ff-47f3-b15a-6802628885d0.png">
+
+**short term mitigation option 1:**  
+```sh
+npm config set ignore-scripts true  
+npm i  
+npm config set ignore-scripts false  
+```
+
+
+**long term fix**
+use https://deno.land instead of nodejs
+
+
+
