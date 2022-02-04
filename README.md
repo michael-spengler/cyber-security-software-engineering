@@ -4,6 +4,12 @@
 tbd
 
 ## Inhalte
+
+<img width="1580" alt="Screenshot 2022-02-04 at 12 09 29" src="https://user-images.githubusercontent.com/43786652/152519220-956ce469-f249-4b46-ae20-2e8e5bf36500.png">
+
+
+
+## spengler aufräumen
 In Anlehnung an den [Modulkatalogeintrag T3INF3001](https://github.com/michael-spengler/cyber-security-software-engineering/blob/main/Screenshot%202021-10-17%20at%2016.06.50.png) wird die Aneignung von Methodenkompetenz in den folgenden Bereichen angeboten:   
 1. [Value Proposition Exploration & Definition](https://www.youtube.com/watch?v=ReM1uqmVfP0)    
 2. Requirements Engineering mit Hilfe von Personas & User Story Mapping    
