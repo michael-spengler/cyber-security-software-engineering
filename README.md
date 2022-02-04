@@ -4,7 +4,7 @@
 ## Inhalte Überblick vom 4.2.22
 In Anlehnung an den [Modulkatalogeintrag T3INF3001](https://github.com/michael-spengler/cyber-security-software-engineering/blob/main/Screenshot%202021-10-17%20at%2016.06.50.png) wird die Aneignung von Methodenkompetenz in den folgenden Bereichen angeboten:    
 
-<img width="1682" alt="Screenshot 2022-02-04 at 13 51 50" src="https://user-images.githubusercontent.com/43786652/152532240-527da5c2-eabf-4c36-9a7a-097f5d537a63.png">
+<img width="1621" alt="Screenshot 2022-02-04 at 14 29 01" src="https://user-images.githubusercontent.com/43786652/152537119-1b16aa54-5550-4c97-9be0-bb83001cd4fc.png">
 
 
 ## Prüfungsleistung
@@ -13,6 +13,12 @@ Portfolioarbeit - Maximale Punktzahl bei 5 ECTS Leistungspunkten = ?  - zu nutze
 
 ## Bewertungskriterien 
 Siehe Mindmap oben.  
+
+
+## Vorlesungsgestaltung
+Zu Beginn der einzelnen Vorlesungseinheiten sammeln wir Challenges aus den einzelnen Gruppen, priorisieren deren gemeinschaftliche Lösung und machen uns dann jeweils an die Lösungsfindung.   
+Am Tag der letzten Vorlesungseinheit (gerne auch vorher zwischendurch) hat jede Gruppe ca. 30 Minuten Zeit ihre Ergebnisse zu präsentieren und Feedback in Form von Punkten zu erhalten. 
+
 
 
 ## Exkurse 
