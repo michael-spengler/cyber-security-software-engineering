@@ -4,7 +4,8 @@
 ## Inhalte Überblick vom 4.2.22
 In Anlehnung an den [Modulkatalogeintrag T3INF3001](https://github.com/michael-spengler/cyber-security-software-engineering/blob/main/Screenshot%202021-10-17%20at%2016.06.50.png) wird die Aneignung von Methodenkompetenz in den folgenden Bereichen angeboten:    
 
-<img width="1621" alt="Screenshot 2022-02-04 at 14 29 01" src="https://user-images.githubusercontent.com/43786652/152537119-1b16aa54-5550-4c97-9be0-bb83001cd4fc.png">
+<img width="1523" alt="Screenshot 2022-02-10 at 20 22 27" src="https://user-images.githubusercontent.com/43786652/153481378-22507995-849e-4187-a736-9247d83df5d5.png">
+
 
 
 ## Prüfungsleistung
