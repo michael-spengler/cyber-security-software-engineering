@@ -36,6 +36,11 @@ Für CI/CD Funktionalitäten empfehle ich GitHub Actions.
 Für die Bereitstellung der index.html (aka. page provisioning for browserbased web apps) empfehle ich GitHub Pages.   
 Für die Bereitstellung der einzelnen backends / microservices empfehle ich einen beliebigen IAAS, PaaS oder FaaS Anbieter wie z.B. [hetzner](https://hetzner.de).
 
+### Themen- & Gruppenfindung
+Für die Themenfindung empfehle ich das Öffnen eines issues auf diesem Repo pro Themenvorschlag. Jeder, der an einem konkreten Thema / Issue interessiert ist, kann diesen kommentieren.
+
+### Zeit für gemeinschaftliches Problemlösungen
+Sofern einzelne von Euch an einer bestimmten Stelle nicht weiterkommen, können wir das nutzen um aus diesen Challenges zu lernen.
 
 ## Exkurse 
 ### Deno 
