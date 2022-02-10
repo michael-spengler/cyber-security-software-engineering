@@ -21,6 +21,21 @@ Zu Beginn der einzelnen Vorlesungseinheiten sammeln wir Challenges aus den einze
 Am Tag der letzten Vorlesungseinheit (gerne auch vorher zwischendurch) hat jede Gruppe ca. 30 Minuten Zeit ihre Ergebnisse zu präsentieren und Feedback in Form von Punkten zu erhalten. 
 
 
+## Inhalte vom 11.2.22
+### Snel & Svelte
+Für die Frontendentwicklung bzgl. browserbasierten web apps empfehle ich [Svelte unter Nutzung von Snel](https://github.com/crewdevio/Snel). 
+
+### Deno 
+Für die Backendentwicklung empfehle ich [Deno](https://deno.land). Konkret: [opine](https://deno.land/x/opine) für die Entwicklung eines Backends / Microservices mit unterschiedlichen API Endpoints... 
+
+### Webharvesting
+Für die Entwicklung von Webharvesting Anwendungen empfehle ich [codecept](https://codecept.io).
+
+### CI/CD
+Für CI/CD Funktionalitäten empfehle ich GitHub Actions.   
+Für die Bereitstellung der index.html (aka. page provisioning for browserbased web apps) empfehle ich GitHub Pages.   
+Für die Bereitstellung der einzelnen backends / microservices empfehle ich einen beliebigen IAAS, PaaS oder FaaS Anbieter wie z.B. [hetzner](https://hetzner.de).
+
 
 ## Exkurse 
 ### Deno 
