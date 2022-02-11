@@ -24,9 +24,11 @@ Am Tag der letzten Vorlesungseinheit (gerne auch vorher zwischendurch) hat jede 
 ## Inhalte vom 11.2.22
 ### Snel & Svelte
 Für die Frontendentwicklung bzgl. browserbasierten web apps empfehle ich [Svelte unter Nutzung von Snel](https://github.com/crewdevio/Snel). 
+https://github.com/michael-spengler/tinfcs-demo/tree/main/client/example-ui-in-svelte
 
 ### Deno 
 Für die Backendentwicklung empfehle ich [Deno](https://deno.land). Konkret: [opine](https://deno.land/x/opine) für die Entwicklung eines Backends / Microservices mit unterschiedlichen API Endpoints... 
+https://github.com/michael-spengler/tinfcs-demo/blob/main/server/server.ts
 
 ### Webharvesting
 Für die Entwicklung von Webharvesting Anwendungen empfehle ich [codecept](https://codecept.io).
