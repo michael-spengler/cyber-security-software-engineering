@@ -68,6 +68,19 @@ use https://deno.land instead of nodejs
 Dezentrale Lösungen bringen häufig Performance Nachteile mit sich. Sie entstehen meistens in Kontexten, in welchen Menschen glauben, dass es nicht gut ist einer zentralen Instanz zu vertrauen, da sich diese evtl. unfair verhält oder unfair verhalten könnte. Welche zentralen Instanzen vertrauenswürdig sind und welche nicht scheint mir unmöglich zu beurteilen. Daher hoffe ich, dass Sie die Skills, die Sie im Rahmen der Web 3 Technologie hier erhalten stets besonnen, fair und respektvoll einsetzen.  
 
 
-### Monolithische Architekturen
+### Architekturen
+#### Monolithische Architekturen
 Selbst was vermeintlich komplett falsch und outdated erscheint, kann in manchen Kontexten (z.B. Kontexte, die Jahrzentelang stabil sind - vom Personal und von der Funktionalität her) erfolgreich und wertvoll sein - Beispiel CML. 
+
+#### Microservices Architekturen
+Individuelle Skalierbarkeit   
+Resilienz des Gesamtsystems   
+Technologische Freiheit  
+Design for Flexibility  
+
+#### Tradeoffs
+Debating Club anbieten 
+
+### Infrastructure as Code
+Test First auch für nicht-funktionale (z.B. Performance- und Sicherheitsanforderungen)  
 
