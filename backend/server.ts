@@ -9,20 +9,22 @@ export class Server {
     }
 
     public placeOffer() {
-        return "success"
+        this.placeOffer()
     }
 
+    public startListening(port: number) {
+        const app = opine();
+
+        app.get("/placeOffer", function (req, res) {
+            res.send("placeOffer needs to be implemented");
+        });
+
+        app.listen(
+            port,
+            () => console.log(`server has started on http://localhost:${port} 🚀`),
+        );
+    }
 }
-// const app = opine();
 
-// app.get("/placeOffer", function (req, res) {
-//     res.send("placeOffer needs to be implemented");
-// });
-
-// const port = Number(Deno.args[0])
-// app.listen(
-//     port,
-//     () => console.log(`server has started on http://localhost:${port} 🚀`),
-// );
 
 
