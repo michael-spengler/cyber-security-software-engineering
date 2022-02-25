@@ -44,6 +44,52 @@ Für die Themenfindung empfehle ich das Öffnen eines issues auf diesem Repo pro
 ### Zeit für gemeinschaftliches Problemlösungen
 Sofern einzelne von Euch an einer bestimmten Stelle nicht weiterkommen, können wir das nutzen um aus diesen Challenges zu lernen.
 
+
+## Inhalte vom 25.2.22
+### Architekturen + dazugehörige Deployment- / Operationsvarianten
+Infrastructure as Code   
+DevOps (Closed Feedbackloops)     
+A / B Testing   
+Blue Green Deployment    
+Chaos Monkey  
+
+#### Design for Flexibility
+
+#### Simplicity / Reliability & Maintainability of Infrastructure Setup
+Infrastructure as Code (Dock Compose File, xyz.infrastructure.yml....)  
+Test First (nicht nur für functional correctness) auch für Infrastruktur Code --> auch für Performance Tests / auch für Security Tests --> Safety Net --> motiviert zum mutigen Aufräumen
+
+http://xunitpatterns.com/
+screenshots einfügen
+
+
+#### Skalierbarkeit
+Individuelle Skalierbarkeit (Skalieren genau derjenigen Funktion, welche auf dem kritischen Pfad liegt... ) 
+
+#### Resilienz
+Resilienz des Gesamtsystems (wenn eine Funktion ausfällt kann das gesamtsystem dennoch mit einer hohen Wahrscheinlichkeit weitgehend stabil sein - wenn feingranular designed & deployed) 
+
+
+
+### Cloud Service Categories
+Infrastructure as a Service (IaaS)   
+
+Platform as a Service (PaaS) / Function as a Service (FaaS)  
+
+Software as a Service (SaaS)  
+
+### Meilensteine in der Webentwicklung
+#### Web 1 (statische Seiten mit Links)  
+
+#### Web 2 (Web 1 + Dynamik (Dank Brendan Eich - Erfinder von JavaScript))
+
+#### Web 3 (Web 2 + Decentralization)
+Distributed App (DApp) 
+
+
+
+
+
 ## Exkurse 
 ### Deno 
 https://deno.land/ ... sollte als sehr empfehlenswert rübergekommen sein :)   
