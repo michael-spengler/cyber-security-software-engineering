@@ -60,7 +60,13 @@ Infrastructure as Code (Dock Compose File, xyz.infrastructure.yml....)
 Test First (nicht nur für functional correctness) auch für Infrastruktur Code --> auch für Performance Tests / auch für Security Tests --> Safety Net --> motiviert zum mutigen Aufräumen
 
 http://xunitpatterns.com/
-screenshots einfügen
+
+![Screenshot 2022-02-25 at 09 28 59](https://user-images.githubusercontent.com/43786652/155698749-b54dbe03-102c-448d-af31-0fb36044e367.png)  
+
+![Screenshot 2022-02-25 at 09 29 06](https://user-images.githubusercontent.com/43786652/155698753-c2fd1fce-f3db-4ac4-aaf5-342655dce7fc.png)  
+
+![Screenshot 2022-02-25 at 09 29 49](https://user-images.githubusercontent.com/43786652/155698754-0ce51f42-d30c-45be-93b4-1546037d9fb2.png)  
+
 
 
 #### Skalierbarkeit
@@ -78,7 +84,9 @@ Platform as a Service (PaaS) / Function as a Service (FaaS)
 
 Software as a Service (SaaS)  
 
+
 ### Meilensteine in der Webentwicklung
+
 #### Web 1 (statische Seiten mit Links)  
 
 #### Web 2 (Web 1 + Dynamik (Dank Brendan Eich - Erfinder von JavaScript))
