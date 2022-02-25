@@ -46,7 +46,7 @@
   }
 </script>
 
-<h1>NFT Auction DApp</h1>
+<h1>Smart Contract Interaction Demo DApp</h1>
 
 <button on:click={connect}> Connect Via Metamask </button>
 
