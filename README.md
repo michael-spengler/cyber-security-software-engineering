@@ -154,7 +154,12 @@ Sequenzdiagramme, Aktivitätsdiagramme
 ## Lernprozess (planned)
 ### Optional: Individuelle Einzelbewertungen anbieten
 
-### Benefits der Modularisierung / Open Sourcing erläutern...
+### Beispiel für die Nutzung von Security Advisories
+https://github.com/cla-assistant/cla-assistant/security/advisories  
+Fragerunde: Wie würdet Ihr damit umgehen?
+
+### Benefits der Modularisierung / Open Sourcing erkunden ...
+
 
 ### je nach feedback
 
