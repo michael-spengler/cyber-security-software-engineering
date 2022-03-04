@@ -138,3 +138,15 @@ Debating Club anbieten
 ### Infrastructure as Code
 Test First auch für nicht-funktionale (z.B. Performance- und Sicherheitsanforderungen)  
 
+## UML
+### Strukturdiagramme
+Klassendiagramm
+Komponentendiagramm
+
+### Verlaufsdiagramme
+Sequenzdiagramme
+Aktivitätsdiagramme
+
+## Werkzeuge
+[diagrams.net](https://app.diagrams.net/)   
+[staruml](https://staruml.io/)  
