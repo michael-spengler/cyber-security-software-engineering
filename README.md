@@ -13,7 +13,8 @@ Portfolioarbeit - Maximale Punktzahl bei 5 ECTS Leistungspunkten = ?  - zu nutze
 
 
 ## Bewertungskriterien 
-Siehe Mindmap oben.  
+Siehe Mindmap oben.   
+Contributions.md file  
 
 
 ## Vorlesungsgestaltung
