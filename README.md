@@ -15,6 +15,7 @@ Portfolioarbeit - Maximale Punktzahl bei 5 ECTS Leistungspunkten = ?  - zu nutze
 ## Bewertungskriterien 
 Siehe Mindmap oben.   
 Contributions.md file  
+**Auf Wunsch aller Gruppenmitglieder** kann grundsätzlich allen innerhalb der Gruppe dieselbe Note gegeben werden (Gruppennote) - Es wäre gleichzeitig wünschenswert, dass sich die Fairness dessen iwie in github oder per Stichproben fragen nachvollziehen lässt.  
 
 
 ## Vorlesungsgestaltung
