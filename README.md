@@ -139,13 +139,11 @@ Debating Club anbieten
 Test First auch für nicht-funktionale (z.B. Performance- und Sicherheitsanforderungen)  
 
 ## UML
-### Strukturdiagramme
-Klassendiagramm
-Komponentendiagramm
+### Strukturdiagramme Beispiele
+Klassendiagramme, Komponentendiagramme
 
-### Verlaufsdiagramme
-Sequenzdiagramme
-Aktivitätsdiagramme
+### Verlaufsdiagramme Beispiele
+Sequenzdiagramme, Aktivitätsdiagramme
 
 ## Werkzeuge
 [diagrams.net](https://app.diagrams.net/)   
