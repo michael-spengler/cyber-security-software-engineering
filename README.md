@@ -13,8 +13,10 @@ Portfolioarbeit - Maximale Punktzahl bei 5 ECTS Leistungspunkten = ?  - zu nutze
 
 
 ## Bewertungskriterien 
-Siehe Mindmap oben.  
-
+Siehe Mindmap oben.   
+Contributions.md file  
+**Auf Wunsch aller Gruppenmitglieder** kann grundsätzlich allen innerhalb der Gruppe dieselbe Note gegeben werden (Gruppennote) - Es wäre gleichzeitig wünschenswert, dass sich die Fairness dessen iwie in github oder per Stichproben fragen nachvollziehen lässt.   
+Reminder für Spengler: Die Kursteilnehmer haben die Web Programmierung nicht als Fokus --> Expectation Management 
 
 ## Vorlesungsgestaltung
 Zu Beginn der einzelnen Vorlesungseinheiten sammeln wir Challenges aus den einzelnen Gruppen, priorisieren deren gemeinschaftliche Lösung und machen uns dann jeweils an die Lösungsfindung.   
@@ -148,3 +150,16 @@ Sequenzdiagramme, Aktivitätsdiagramme
 ## Werkzeuge
 [diagrams.net](https://app.diagrams.net/)   
 [staruml](https://staruml.io/)  
+
+## Lernprozess (planned)
+### Optional: Individuelle Einzelbewertungen anbieten
+
+### Beispiel für die Nutzung von Security Advisories
+https://github.com/cla-assistant/cla-assistant/security/advisories  
+Fragerunde: Wie würdet Ihr damit umgehen?
+
+### Benefits der Modularisierung / Open Sourcing erkunden ...
+
+
+### je nach feedback
+
