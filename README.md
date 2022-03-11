@@ -29,7 +29,9 @@ Add conf.template.py + instructions 1. Copy conf.template.py to conf.py and add 
 Enhance Bot Description + Help Command  take infos from wiki and display it to the bot user  
 Enhance (Unit) Tests vs. Debugging  
 Consider publishing your work as python module(s)  about 8 additional files for python publishing…     
-Consider! replacing comments by adding functions (https://github.com/NoWo2000/MOT-Multi-Functional-Bot/blob/main/main.py#L23-L28)    
+Consider! replacing comments by adding functions (https://github.com/NoWo2000/MOT-Multi-Functional-Bot/blob/main/main.py#L23-L28)     
+Individual Scalability (wie ist es wenn ein Spiel besonders häufig gespielt wird?)  
+
 
 
 
