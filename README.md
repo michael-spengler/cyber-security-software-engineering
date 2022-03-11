@@ -31,6 +31,15 @@ Enhance (Unit) Tests vs. Debugging
 Consider publishing your work as python module(s)  about 8 additional files for python publishing…     
 Consider! replacing comments by adding functions (https://github.com/NoWo2000/MOT-Multi-Functional-Bot/blob/main/main.py#L23-L28)     
 Individual Scalability (wie ist es wenn ein Spiel besonders häufig gespielt wird?)  
+Consider Adding Constraint-Satisfaction-Problems (CSP) Background Info to README…
+Add TypeSafety / leverage TypeScript to its full extent – e.g. https://github.com/TheMuppet/deno-CSP/pull/18/files
+Consider REGEX based limitations for eval  difficult & no exploitables known as long as no “code injection”… possibility… granted by users…   probably responsibility of user not the module itself  Add recommendation to proper input validation to README
+Consider asking the Deno Community https://discord.gg/deno about performance improvement options 
+![image](https://user-images.githubusercontent.com/43786652/157856704-bb7d79f7-39ab-4b1e-b479-58123a24576a.png)
+Improve Likelyhood for broad (Developer) Adoption …. 
+Consider Cloud Hosting PLUS local setup  
+Consider publishing e.g. https://github.com/Music-Bot-for-Jitsi/jitsi-api-client on deno.land,  nest.land (https://medium.com/deno-the-complete-reference/node-js-compatibility-in-deno-a7cb8384a8d7) / npmjs.com (https://www.npmjs.com/package/ts-node)
+![image](https://user-images.githubusercontent.com/43786652/157856615-56ee760c-0339-4aed-bc9a-d1d7adb1ce68.png)
 
 
 
