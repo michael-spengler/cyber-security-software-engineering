@@ -28,12 +28,12 @@ Add Link to each bot or SPOE Bot in README
 Add conf.template.py + instructions 1. Copy conf.template.py to conf.py and add your individual conf there…  
 Enhance Bot Description + Help Command - take infos from wiki and display it to the bot user  
 Enhance (Unit) Tests vs. Debugging  
-Consider publishing your work as python module(s)  about 8 additional files for python publishing…     
+Consider publishing your work as python module(s) - about 8 additional files for python publishing…     
 Consider! replacing comments by adding functions (https://github.com/NoWo2000/MOT-Multi-Functional-Bot/blob/main/main.py#L23-L28)     
 Individual Scalability (wie ist es wenn ein Spiel besonders häufig gespielt wird?)  
 Consider Adding Constraint-Satisfaction-Problems (CSP) Background Info to README…
 Add TypeSafety / leverage TypeScript to its full extent – e.g. https://github.com/TheMuppet/deno-CSP/pull/18/files
-Consider REGEX based limitations for eval - difficult & no exploitables known as long as no “code injection”… possibility… granted by users…   probably responsibility of user not the module itself  Add recommendation to proper input validation to README
+Consider REGEX based limitations for eval - difficult & no exploitables known as long as no “code injection”… possibility… granted by users…  - probably responsibility of user not the module itself - Add recommendation to proper input validation to README
 Consider asking the Deno Community https://discord.gg/deno about performance improvement options 
 Improve Likelyhood for broad (Developer) Adoption …. 
 Consider Cloud Hosting PLUS local setup  
