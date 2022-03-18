@@ -175,8 +175,14 @@ Sequenzdiagramme, Aktivitätsdiagramme
 ### Optional: Individuelle Einzelbewertungen anbieten
 
 ### Beispiel für die Nutzung von Security Advisories
+#### Responsible Disclosure  
+Known Maintainers informieren   
+Fixen   
+Announcement    
+
 https://github.com/cla-assistant/cla-assistant/security/advisories  
-Fragerunde: Wie würdet Ihr damit umgehen?
+
+
 
 ### Benefits der Modularisierung / Open Sourcing erkunden ...
 
