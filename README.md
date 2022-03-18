@@ -30,7 +30,7 @@ Enhance Bot Description + Help Command - take infos from wiki and display it to 
 Enhance (Unit) Tests vs. Debugging  
 Consider publishing your work as python module(s) - about 8 additional files for python publishing…     
 Consider! replacing comments by adding functions (https://github.com/NoWo2000/MOT-Multi-Functional-Bot/blob/main/main.py#L23-L28)     
-Individual Scalability (wie ist es wenn ein Spiel besonders häufig gespielt wird?)  
+Individual Scalability (wie ist es wenn ein Spiel besonders häufig gespielt wird?) / Multi-Threading vs. Microservices Architecture    
 Consider Adding Constraint-Satisfaction-Problems (CSP) Background Info to README…
 Add TypeSafety / leverage TypeScript to its full extent – e.g. https://github.com/TheMuppet/deno-CSP/pull/18/files
 Consider REGEX based limitations for eval - difficult & no exploitables known as long as no “code injection”… possibility… granted by users…  - probably responsibility of user not the module itself - Add recommendation to proper input validation to README
