@@ -32,13 +32,14 @@ Consider publishing your work as python module(s) - about 8 additional files for
 Consider! replacing comments by adding functions (https://github.com/NoWo2000/MOT-Multi-Functional-Bot/blob/main/main.py#L23-L28)     
 Individual Scalability (wie ist es wenn ein Spiel besonders häufig gespielt wird?) / Multi-Threading vs. Microservices Architecture    
 Consider Adding Constraint-Satisfaction-Problems (CSP) Background Info to README…
-Add TypeSafety / leverage TypeScript to its full extent – e.g. https://github.com/TheMuppet/deno-CSP/pull/18/files
+Add TypeSafety / leverage TypeScript to its full extent – e.g. https://github.com/TheMuppet/deno-CSP/pull/18/files  
 Consider REGEX based limitations for eval - difficult & no exploitables known as long as no “code injection”… possibility… granted by users…  - probably responsibility of user not the module itself - Add recommendation to proper input validation to README
 Consider asking the Deno Community https://discord.gg/deno about performance improvement options 
 Improve Likelyhood for broad (Developer) Adoption …. 
 Consider Cloud Hosting PLUS local setup  
-Consider publishing e.g. https://github.com/Music-Bot-for-Jitsi/jitsi-api-client on deno.land,  nest.land (https://medium.com/deno-the-complete-reference/node-js-compatibility-in-deno-a7cb8384a8d7) / npmjs.com (https://www.npmjs.com/package/ts-node)
-
+Consider publishing e.g. https://github.com/Music-Bot-for-Jitsi/jitsi-api-client on deno.land,  nest.land (https://medium.com/deno-the-complete-reference/node-js-compatibility-in-deno-a7cb8384a8d7) / npmjs.com (https://www.npmjs.com/package/ts-node)  
+Automate Quality Assurance - good example https://github.com/felix-beie/youtube-deno-discord/blob/main/.github/workflows/deno.yml#L12   
+Ensure your Doku / Readme is great so that each visitor could immediately use your artifacts and contribute to them  
 
 
 
