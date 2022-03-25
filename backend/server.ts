@@ -1,22 +1,28 @@
 import { opine } from "https://deno.land/x/opine@2.1.2/mod.ts";
+import { MongoService } from "./mongo-persistence.ts";
+import { PersistencInterface } from "./persistence-interface.ts";
 
 export class Server {
 
     private offers = []
 
-    public getOffers() {
-        return this.offers
-    }
+    private persistencService: PersistencInterface
 
-    public placeOffer() {
-        this.placeOffer()
+    public constructor(persistencService?: PersistencInterface) {
+        if (persistencService === undefined) {
+            this.persistencService = new MongoService()
+        } else {
+            // this.persistencService = new whatever persistence service you like
+        }
+
     }
 
     public startListening(port: number) {
         const app = opine();
 
-        app.get("/placeOffer", function (req, res) {
-            res.send("placeOffer needs to be implemented");
+        app.get("/insert", function (req, res) {
+            this.persistencService.insert("whatever") // this would need some refactoring
+            res.send("ok");
         });
 
         app.listen(
